@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sisilia Manullang 👋</h1>
-<h3 align="center">Analytical Engineering Graduate · Data Analyst · ML Enthusiast</h3>
+<h3 align="center">Analytical Engineering Graduate · Data Analyst · Data Science ·ML Enthusiast</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/sisilia-manullang">
