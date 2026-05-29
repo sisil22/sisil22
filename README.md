@@ -93,8 +93,7 @@ Interactive dashboard analyzing bike-sharing usage patterns with trend and seaso
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sisil22&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sisil22&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=sisil22&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
